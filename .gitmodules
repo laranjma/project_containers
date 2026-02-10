@@ -1,0 +1,3 @@
+[submodule "lf_slam_docker"]
+	path = lf_slam_docker
+	url = git@github.com:laranjma/lf_slam_docker.git
